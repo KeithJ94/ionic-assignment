@@ -1,5 +1,5 @@
-# Mobile Application Development Project Template
-You must use this template to start your project.
+# Keith Jordan (G00300369)
+This is my calorie counter app called Calorify.
 
-## How to get this template
-You can clone it using 'git clone <url>' where <url> is the ssh url on the right, or you can click "Download ZIP" on the right and start from there.
+## Features
+It allows the user to click the foods they consumed and get a total of all the calories in that particular food.
